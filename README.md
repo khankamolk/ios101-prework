@@ -1,10 +1,10 @@
-# Prework - *Name of App Here*
+# Prework - *AboutMe*
 
-Submitted by: **Your Name Here**
+Submitted by: **Khankamol Chor Kongrukgreatiyos**
 
-**Name of your app** is an app that... [TODO] 
+**AboutMe** is an app completed for the IOS101 Prework. This application features a simple page that introduces myself, as well as a button that changes the page's background color upon click. 
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
@@ -28,6 +28,20 @@ GIF created with ...
 
 ## App Brainstorming (Step 4)
 
+The following are some of my **favorite apps**:
+
+- TickTick
+  - Browser integration: Also available as an extension on the Chrome browser.
+  - Widget feature: Users can directly view their to-do lists as a widget on their homescreen.
+- Instagram
+  - Chat history: Users can search for old messages in chat.
+  - Users can also see past shared posts/photos in their cha.t
+- TikTok
+  - Watch history: Addresses the pain point users face when unintentionally refreshing their page.
+  - Blue search comment feature: Users can easily view relevant content.
+ 
+Here's an **app idea** I'd like to build in the future:
+    
 ## Notes
 
 Describe any challenges encountered while building the app.
