@@ -4,14 +4,18 @@ Submitted by: **Khankamol Chor Kongrukgreatiyos**
 
 **AboutMe** is an app completed for the IOS101 Prework. This application features a simple page that introduces myself, as well as a button that changes the page's background color upon click. 
 
-Time spent: **3** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
+- [ ] Users are able to see a screen with three labels and a button
 - [ ] Tapping the button changes the screen color to a random color
+
+The following **additional** features are added:
+
+- Another la
  
 ## Video Walkthrough
 
@@ -35,7 +39,7 @@ The following are some of my **favorite apps**:
   - Widget feature: Users can directly view their to-do lists as a widget on their homescreen.
 - Instagram
   - Chat history: Users can search for old messages in chat.
-  - Users can also see past shared posts/photos in their cha.t
+  - Users can also see past shared posts/photos in their chat.
 - TikTok
   - Watch history: Addresses the pain point users face when unintentionally refreshing their page.
   - Blue search comment feature: Users can easily view relevant content.
@@ -44,11 +48,11 @@ Here's an **app idea** I'd like to build in the future:
     
 ## Notes
 
-Describe any challenges encountered while building the app.
+There were no significant challenges faced while building this application. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Khankamol Chor Kongrukgreatiyos
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
