@@ -53,10 +53,11 @@ Here's an **app idea** I'd like to build in the future:
 Some **features** I'd like to include in this application:
 
 - Custom Recipe Cards: Users have the flexibility to design their own recipe cards, choosing from various layouts and uploading their personal photos.
-- Community: A page where users can browse creations from other users. Users can search for specific recipes or filter for recipes by tags, rating, or popularity. 
+- Community: The application will feature a community page where users can browse creations from other users. Here, users can search for specific recipes or filter for recipes by tags, rating, or popularity. 
 - Ingredient Inventory feature: Users can add, edit, and keep track of which ingredients they have available in their refrigerator or pantry.
-- Recipe Recommendation System: Based on the user's saved bookmarks and their current ingredient inventory, this application will suggest recipes users can cook up.
-- Bookmark Feature: Users can browse recipes other users create and bookmark them for later use.
+- Recipe Recommendation System: Based on the user's saved bookmarks and their current ingredient inventory, *RecipeBook* will suggest recipes users can easily cook up.
+- Bookmark Feature: Users can browse recipes other users create and bookmark them for later reference.
+- Privacy Settings: Users can also choose to enjoy this application by themselves or with friends. They can simply choose who can see their recipes by navigating to Privacy Settings and setting their page to Private or Friends only.
     
 ## Notes
 
