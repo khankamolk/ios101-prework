@@ -2,7 +2,7 @@
 
 Submitted by: **Khankamol Chor Kongrukgreatiyos**
 
-**AboutMe** is an app completed for the IOS101 Prework. This application features a simple page that introduces myself, as well as a button that changes the page's background color upon click. 
+**AboutMe** is an app completed for the IOS101 Prework. This application features a simple page that introduces me, as well as a button that changes the page's background color upon click. 
 
 Time spent: **5** hours spent in total
 
@@ -15,13 +15,15 @@ The following **required** functionality is completed:
 
 The following **additional** features are added:
 
-- Another la
+- Added UI elements to the launch screen.
+- Added Title label to the main screen.
+- Stylized button used to change the screen color.
  
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://raw.githubusercontent.com/khankamolk/ios101-prework/main/VideoDemo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Gifox  
@@ -45,6 +47,17 @@ The following are some of my **favorite apps**:
   - Blue search comment feature: Users can easily view relevant content.
  
 Here's an **app idea** I'd like to build in the future:
+
+**App Description:** *RecipeBook* is a social media application where foodies share, rate, and discuss their culinary creations! Users can  add ingredients they have on hand, allowing the app to suggest recipes they can whip up without needing a last-minute grocery run.
+
+Some **features** I'd like to include in this application:
+
+- Custom Recipe Cards: Users have the flexibility to design their own recipe cards, choosing from various layouts and uploading their personal photos.
+- Community: The application will feature a community page where users can browse creations from other users. Here, users can search for specific recipes or filter for recipes by tags, rating, or popularity. 
+- Ingredient Inventory feature: Users can add, edit, and keep track of which ingredients they have available in their refrigerator or pantry.
+- Recipe Recommendation System: Based on the user's saved bookmarks and their current ingredient inventory, *RecipeBook* will suggest recipes users can easily cook up.
+- Bookmark Feature: Users can browse recipes other users create and bookmark them for later reference.
+- Privacy Settings: Users can also choose to enjoy this application by themselves or with friends. They can simply choose who can see their recipes by navigating to Privacy Settings and setting their page to Private or Friends only.
     
 ## Notes
 
